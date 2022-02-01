@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.css';
-//import App from './App';
 import reportWebVitals from './reportWebVitals';
 import AppFunction from './AppFunction';
-//import AppQuizNavBar from './QuizNavBar';
 
 ReactDOM.render(
   <React.StrictMode>
